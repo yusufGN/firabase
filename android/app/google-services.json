@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710682455641",
+    "project_id": "paypay-e1eca",
+    "storage_bucket": "paypay-e1eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710682455641:android:5eb576ed8f30a28c30cb48",
+        "android_client_info": {
+          "package_name": "com.domain.salypai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBR_t4tzVDuEmXhW0yfBRVqk8Y-DOS5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
